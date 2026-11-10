@@ -1,0 +1,40 @@
+Dataset shape: (786, 26)
+Date range: 2021-01-09 00:00:00 to 2023-03-05 00:00:00
+
+Missing values:
+Date          0
+v-0           0
+v-0_nans      0
+temp-1        0
+rain-1        0
+humidity-1    0
+wind-1        0
+RS14          6
+RS7           0
+RS3           0
+TA14          6
+TA7           0
+TA3           0
+Day           0
+Saturday      0
+Sunday        0
+Weekday       0
+v-1           0
+VA3           0
+VA7           0
+v-2           0
+v-3           0
+v-4           0
+v-5           0
+v-6           0
+v-7           0
+
+Demand statistics:
+count    786.000000
+mean       8.305653
+std        1.875304
+min        5.118750
+25%        6.868177
+50%        7.791667
+75%        9.759193
+max       17.088125
